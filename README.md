@@ -11,8 +11,8 @@ Robert Geraghty
 
 ## About
 
-This simulator generates an n armed bandit, with each arm having a normally distributed payout with a mean of (i+1)/(n+1) 
-where i is the index of the arm from the interval \[0, `n_arms`) end exclusive and n is the number of arms for the band, and a common standard deviation that is passed as a parameter.
+This simulator generates an n armed bandit, with each arm having a normally distributed payout with a mean of (i+1)/(`n_arms`+1) 
+where i is the index of the arm from the interval \[0, `n_arms`) end exclusive and `n_arms` is the number of arms for the band, and a common standard deviation that is passed as a parameter.
 
 ## Requirements
 
