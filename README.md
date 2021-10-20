@@ -45,5 +45,5 @@ bandsim.arm_means
 
 ## Support
 
-If you find a bug please email me at rrg@utulsa.edu.
+If you find a bug please email me at rrg053@utulsa.edu.
 
