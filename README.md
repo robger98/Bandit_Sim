@@ -1,10 +1,11 @@
 # Bandit_Sim
 
-A python based multi-armed bandit simulator for CS5313/7313.
-
-## Author
+### Authors
 
 Robert Geraghty
+
+A python based multi-armed bandit simulator for CS5313/7313.
+
 
 ## About
 
@@ -43,3 +44,4 @@ bandsim.arm_means
 ## Support
 
 If you find a bug please email me at rrg@utulsa.edu.
+
